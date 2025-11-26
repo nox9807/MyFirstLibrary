@@ -3,8 +3,8 @@
 
 import Foundation
 
-struct Person {
-    let name: String
+public struct Person {
+    public let name: String
     let age: Int
 }
 
