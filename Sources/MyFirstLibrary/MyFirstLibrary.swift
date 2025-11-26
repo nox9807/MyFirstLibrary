@@ -15,8 +15,8 @@ public struct Person {
     }
 }
 
-extension Date {
-    var year: Int {
+public extension Date {
+     var year: Int {
         return Calendar.current.component(.year, from: Date())
     }
 }
