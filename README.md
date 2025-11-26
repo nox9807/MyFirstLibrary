@@ -1,10 +1,3 @@
-//
-//  README.md
-//  MyFirstLibrary
-//
-//  Created by JaeYeongMAC on 11/26/25.
-//
-
 # Swift Package Manager Project
 
 The Swift Package Manager is a tool for managing distribution of source code, aimed at making it easy to share your code and reuse others’ code. The tool directly addresses the challenges of compiling and linking Swift packages, managing dependencies, versioning, and supporting flexible distribution and collaboration models.
